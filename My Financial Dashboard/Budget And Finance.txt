@@ -1,0 +1,15 @@
+Project Goal:
+-Learn power BI and data analytics
+-Embed analytics into daily life
+-BYOD(Bring your own data)
+-Financial literacy/discipline at early age
+
+Questions that will be answer:
+-what is my net worth?
+-is my spending pattern right?
+-Am i reaching my savings target?
+-which months are financially bad/good?
+-where//how do i spend?
+-where/how do i save?
+
+ 
